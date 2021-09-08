@@ -1,4 +1,5 @@
 ### Hi, eu sou Gustavo👋
+
 - 📚 Atualmente faço graduação de Ciência da computação.
 - 💻 Sou apaixonado pelo mundo de tecnologia e o fato de eu gostar desde pequeno me faz acreditar que eu terei sucesso nessa área.
 - 👨‍💻 Atualmente, estou me aprimorando no ramo de Tecnologia como desenvolvedor Front-End.
