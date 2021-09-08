@@ -1,4 +1,4 @@
-### Hi, eu sou Gustavo👋
+### Hi, eu me chamo Gustavo👋
 
 - 📚 Atualmente faço graduação de Ciência da computação.
 - 💻 Sou apaixonado pelo mundo de tecnologia e o fato de eu gostar desde pequeno me faz acreditar que eu terei sucesso nessa área.
