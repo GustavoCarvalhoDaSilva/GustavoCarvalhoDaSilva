@@ -6,7 +6,7 @@
 - ✔ Então procuro ingressar e me qualificar cada vez mais neste seguimento.
  <div>
   <a href="https://github.com/nomegustaa">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GustavoCarvalhodaSilva&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=nomegustaa&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nomegustaa&layout=compact&langs_count=7&theme=cobalt"/>
 </div><br>
 
