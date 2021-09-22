@@ -2,7 +2,7 @@
 
 - 📚 Atualmente faço graduação de Ciência da computação.
 - 💻 Sou apaixonado pelo mundo de tecnologia e o fato de eu gostar desde pequeno me faz acreditar que eu terei sucesso nessa área.
-- 👨‍💻 Atualmente, estou me aprimorando no ramo de Tecnologia como desenvolvedor Front-End.
+- 👨‍💻 Estou me aprimorando no ramo de Tecnologia como desenvolvedor Front-End.
 - ✔ Então procuro ingressar e me qualificar cada vez mais neste seguimento.
  <div>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=nomegustaa&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
