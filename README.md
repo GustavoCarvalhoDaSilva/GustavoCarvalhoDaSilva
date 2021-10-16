@@ -4,9 +4,14 @@
 - 💻 Sou apaixonado pelo mundo de tecnologia.
 - 👨‍💻 Estou me aprimorando no ramo de Tecnologia como desenvolvedor Front-End.
 - ✔ Então procuro ingressar e me qualificar cada vez mais neste seguimento.
+
  <div>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=nomegustaa&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nomegustaa&layout=compact&langs_count=7&theme=cobalt"/>
+  <img align='right' src="https://github.com/nomegustaa/Desenvolvimento-Js/blob/main/img/preview.gif" width="350">
+ </div>
+ 
+ <div>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=nomegustaa&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nomegustaa&layout=compact&langs_count=7&theme=radical"/>
 </div><br>
 
 <div>
