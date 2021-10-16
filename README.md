@@ -1,4 +1,4 @@
-### Hi, eu me chamo Gustavo👋
+### Hello Hello, me chamo Gustavo e seja Bem-vindo👋
 
 - 📚 Atualmente faço graduação de Ciência da computação.
 - 💻 Sou apaixonado pelo mundo de tecnologia.
@@ -6,17 +6,19 @@
 - ✔ Então procuro ingressar e me qualificar cada vez mais neste seguimento.
 
  <div>
-  <img align='right' src="https://github.com/nomegustaa/Desenvolvimento-Js/blob/main/img/preview.gif" width="350">
+    <img align="right" src="https://github.com/nomegustaa/Desenvolvimento-Js/blob/main/img/preview.gif" width="350">
  </div>
  
+   ##
+   
  <div>
+ 
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=nomegustaa&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nomegustaa&layout=compact&langs_count=7&theme=radical"/>
-</div><br>
-
-<div>
- <h2>Tecnologias</h2>
+</div>
  
+<div>
+ <h2>💻Tecnologias</h2>
  <table border="0.5">
   <tr>
     <td>
@@ -61,9 +63,8 @@
  
 </div>
 
-  ##
-  <h2>Redes sociais</h2>
-  <div>
+<div>
+   <h2>📱Redes sociais</h2>
   <a href="https://www.linkedin.com/in/gustavo--carvalho-da-silva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
    ![Snake animation](https://github.com/nomegustaa/nomegustaa/blob/output/github-contribution-grid-snake.svg)
