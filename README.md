@@ -1,4 +1,6 @@
-### Hello Hello, me chamo Gustavo e seja Bem-vindo👋
+<!-- ### Hello Hello, me chamo Gustavo e seja Bem-vindo👋 -->
+
+   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&color=%23FFFF00&size=14&vCenter=true&multiline=true&width=600&height=36&lines=Hello+Hello%2C+eu+me+chamo+Gustavo+e+seja+Bem-vindo+ao+meu+perfil...)](https://git.io/typing-svg)
 
 - 📚 Atualmente faço graduação de Ciência da computação.
 - 💻 Sou apaixonado pelo mundo de tecnologia.
@@ -13,8 +15,8 @@
    
  <div>
  
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=nomegustaa&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nomegustaa&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=nomegustaa&show_icons=true&theme=yeblu&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nomegustaa&layout=compact&langs_count=7&theme=yeblu"/>
 </div>
  
 <div>
