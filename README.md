@@ -51,9 +51,6 @@
   </tr>
   
   <tr>
-   <td>
-    <img align="center" alt="gusta-visual" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
-   </td>
    
    <td>
     <img align="center" alt="gusta-visual" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
