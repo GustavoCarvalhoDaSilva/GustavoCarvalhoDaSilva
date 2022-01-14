@@ -1,6 +1,6 @@
 <!-- ### Hello Hello, me chamo Gustavo e seja Bem-vindo👋 -->
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FFFF00&vCenter=true&width=500&lines=hello+hello%2C+seja+bem-vindo+ao+meu+perfil...)](https://git.io/typing-svg)
+
 
 - 📚 Atualmente faço graduação de Ciência da computação.
 - 💻 Sou apaixonado pelo mundo de tecnologia.
@@ -8,7 +8,7 @@
 - ✔ Então procuro ingressar e me qualificar cada vez mais neste seguimento.
 
  <div>
-    <img align="right" src="https://github.com/nomegustaa/Desenvolvimento-Js/blob/main/img/preview.gif" width="350">
+    <img align="https://github.com/nomegustaa/nomegustaa/blob/main/gif/giphy.giff" width="350px">
  </div>
  
    ##
