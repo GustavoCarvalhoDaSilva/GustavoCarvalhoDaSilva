@@ -25,8 +25,8 @@
 </div>
  
 <div>
- <h2 align="right">ᴛᴇᴄɴᴏʟᴏɢɪᴀs</h2>
- <div align="center">
+ <h2 align="left">ᴛᴇᴄɴᴏʟᴏɢɪᴀs</h2>
+ <div align="left">
    <span>
     <img height="30px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
    </span>
