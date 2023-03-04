@@ -2,7 +2,6 @@
 
  <div>
    <h1> ᴜᴍ ᴘᴏᴜᴄᴏ sᴏʙʀᴇ ᴍɪᴍ</h1>
-   <p>👋 Me chamo Gustavo Carvalho</>
    <p>📚 Estudo Ciência da computação.</p>
    <p>💻 Desenvolvedor Front-Full Stack.</p>
  
